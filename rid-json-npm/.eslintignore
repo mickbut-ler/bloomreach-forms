@@ -1,0 +1,7 @@
+jest.config.js
+dist/
+example/build/
+node_modules/
+.snapshots/
+*.min.js
+flow-libdef/
