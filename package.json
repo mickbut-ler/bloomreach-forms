@@ -1,5 +1,5 @@
 {
-  "name": "rid-json-v1",
+  "name": "rid-json-builder",
   "version": "2.10.0",
   "description": "React Component for visually configuring a JSON Schema-based form",
   "author": {
@@ -8,7 +8,7 @@
     "url": "https://github.com/mickbut-ler"
   },
   "license": "Apache-2.0",
-  "repository": "mickbut-ler/react-json-schema-form-builder",
+  "repository": "mickbut-ler/bloomreach-forms/tree/master/rid-json-npm",
   "keywords": [
     "react",
     "form",
