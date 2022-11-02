@@ -1,0 +1,3 @@
+[submodule "frontend-ui-extension"]
+	path = frontend-ui-extension
+	url = https://github.com/mickbut-ler/frontend-ui-extension
